@@ -1,0 +1,132 @@
+HTML notes
+
+//Doctype tag
+<!doctype html>
+
+//Start of webpage
+<html>
+</html>
+
+//Paragraph:
+<p>
+</p>
+
+//head tag
+<head>
+</head>
+
+//title tag
+<title>
+</title>
+
+//body tag
+<body>
+</body>
+
+//Header tags (6 different sizes, 1 is largest, 6 is smallest)
+<h1>
+</h1>
+<h2>
+</h2>
+//etc
+
+//Paragraph
+<p>
+</p>
+
+//Line Break
+<br/>
+
+//Horizontal rule
+<hr />
+
+//Bold
+<strong> Bold
+</strong>
+
+//Italics
+<em>Italics
+</em>
+
+//comments
+<!-- this is a comment -->
+
+//links
+//basic link/anchor
+<a>
+</a>
+
+//attributes
+//more information that the tag needs to work
+
+<a href="">
+</a>
+
+//href = "website/page link here"
+
+//Navigation system
+//moves user to specific place on page
+//Uses Anchors to create destination
+
+<a name = "targetName"> </a>
+
+//Sends you to the anchor used
+<a href = "#targetName"></a>
+
+//Link to an email address, add "mailto:" in front of their address
+<a href = "mailto:cjace33@gmail.com">Maillink</a>
+
+//Tooltip
+<a href = "http://www.google.com" title = "GoogleTooltip">Google</a>
+
+//Images
+//Need to put the image in the same folder as your html file
+<img src = "FileNamehere.png"/>
+
+//Image with link
+<a href = "link here"><img src = "link.jpg" /></a>
+
+//Resize image (height is in pixels)
+<img src = "largeimage.png" height = "150"/>
+
+//tables
+//<tr> is a table row, <td> is a table column
+<table border = "1">
+	<tr>
+		<td>
+			1
+		</td>
+		<td>
+			2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			1
+		</td>
+		<td>
+			4
+		</td>
+	</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
